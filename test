@@ -1,4 +1,0 @@
-## this is a test for the assessment
-SELECT * FROM `product-analytics-test.pa_dataset.experiment_data_10395400658` LIMIT 1000
-## end of test
-##added this row
